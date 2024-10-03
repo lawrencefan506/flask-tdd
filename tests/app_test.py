@@ -2,9 +2,7 @@ from pathlib import Path
 
 import json
 
-import os
 import pytest
-from pathlib import Path
 
 from project.app import app, db
 
